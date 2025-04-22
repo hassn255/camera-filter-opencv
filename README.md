@@ -9,17 +9,17 @@ It supports live preview, blur, feature detection, and Canny edge detection.
 - OpenCV
 - NumPy
 
-Install dependencies:
-```bash
-pip install opencv-python numpy
-Usage
-Run the script:
+### Install dependencies:
 
-bash
-Copy
-Edit
-python camera_filters.py
-Controls
+pip install opencv-python numpy
+
+## Usage
+
+Run the script:
+python camera-filter.py
+
+## Controls
+
 P – Preview mode
 
 B – Blur
